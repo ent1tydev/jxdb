@@ -1,6 +1,6 @@
 # JXDB - JSON Database Library
 
-You can find JXDB, a powerful JSON database library, on PyPI (Python Package Index) at [pypi.org/jxdb](https://pypi.org/jxdb). JXDB allows you to easily store and manipulate JSON data in your Python projects.
+You can find JXDB, a powerful JSON database library, on PyPI (Python Package Index) at [pypi.org/project/jxdb](https://pypi.org/project/jxdb). JXDB allows you to easily store and manipulate JSON data in your Python projects.
 
 ## Features
 
