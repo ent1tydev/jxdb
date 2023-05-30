@@ -1,6 +1,18 @@
-# JsonDB
+# JXDB - JSON Database Library
 
-JsonDB provides secure data storage using AES encryption. All data stored in the database is automatically encrypted before being saved and decrypted when read. This ensures that data is protected from unauthorized access.
+You can find JXDB, a powerful JSON database library, on PyPI (Python Package Index) at [pypi.org/jxdb](https://pypi.org/jxdb). JXDB allows you to easily store and manipulate JSON data in your Python projects.
+
+## Features
+
+- Simple and intuitive interface for working with JSON data.
+- Supports data encryption using AES for secure storage.
+- Provides efficient methods for data retrieval, modification, and deletion.
+- Supports searching and filtering based on key-value pairs.
+- Lightweight and easy to integrate into your projects.
+
+## License
+
+JXDB is released under the OpenSociety license. You can find the license details at [ccic.eu.org/opensociety.html](https://ccic.eu.org/opensociety.html). The OpenSociety license grants you the freedom to use, modify, and distribute JXDB according to the terms specified in the license.
 
 ## Installation
 
