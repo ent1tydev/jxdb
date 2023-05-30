@@ -6,7 +6,7 @@ JsonDB provides secure data storage using AES encryption. All data stored in the
 
 You can install JsonDB using pip:
 
-pip install jsondb
+pip install jxdb
 
 ## Usage
 
