@@ -50,7 +50,7 @@ class JsonDB:
     def concept(self, data):
         result = []
         for key, value in self.data.items():
-            if data in key:
+            if data in value:
                 result.append(value)
         return result
 
